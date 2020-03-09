@@ -3,4 +3,5 @@ Content-Type: application/json; charset=utf-8
 
 {
    "message": "Not Found"
+   "timestamp": "123456"
 }

@@ -1,0 +1,9 @@
+HTTP/1.1 400 BAD REQUEST
+Content-Type: application/json; charset=utf-8
+
+{
+  "code": "400",
+  "message": "Bad request",
+  "timestamp": "123456",
+  "transactionId": "add9be287d7a4a4e91041dcd1f184f1d",
+}
